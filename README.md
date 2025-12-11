@@ -35,11 +35,39 @@ Uses **RAG with MMR retrieval** across 60+ document chunks for comprehensive ans
 ### 💰 Revenue Command Center
 ![Revenue Intelligence](screenshots/revenue.png)
 
-The experimental (and most impressive) feature:
-- **$61.9M Revenue Leakage** detected - pricing gaps, uncollected fees
-- **$200.3M Opportunities** identified - upsells, tier upgrades, term extensions
-- **62 Active Signals** - early warning system for churn risk
-- **AI-Generated Outreach** - one-click email/call scripts for each action
+The experimental (and most impressive) feature—AI-powered autonomous revenue operations:
+
+#### 🔴 Revenue Leakage Detection
+![Leakage Analysis](screenshots/revenue-leakage.png)
+
+Automatically identifies **$61.9M in annual revenue leakage** across 10 identified issues:
+- **Below Market Rate** - Clients paying 1-2pp below tier average
+- **Short Contract Exposure** - 12-month terms with high churn risk
+- Individual client breakdowns with specific dollar impact
+
+#### 🚀 Revenue Opportunities
+![Opportunities](screenshots/revenue-opportunities.png)
+
+AI-identified **$200.3M in untapped potential** across 10 opportunities:
+- **Term Extensions** - Extend 12 to 36-month commitments
+- **Billing Model Optimization** - Switch per-transaction to revenue share
+- Success probability scores and specific talking points
+
+#### 📡 Client Signals
+![Signals](screenshots/revenue-signals.png)
+
+**10 active early warning signals** with 90% confidence:
+- Renewal risk detection (contracts expiring without discussion)
+- Engagement drop monitoring
+- Recommended responses for each signal
+
+#### ⚡ Prioritized Action Queue
+![Actions](screenshots/revenue-actions.png)
+
+**15 AI-prioritized actions** ranked by revenue impact:
+- Critical actions with due dates
+- Revenue impact quantified ($15.5M, $10.8M, $5.7M...)
+- One-click AI-generated outreach scripts
 
 ---
 
