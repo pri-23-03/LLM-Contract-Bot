@@ -52,6 +52,11 @@ eval_errors.json
 *.log
 
 # ========================
+# Contract Files (generated)
+# ========================
+data/*.pdf
+
+# ========================
 # Frontend (React/Vite)
 # ========================
 frontend/node_modules/
